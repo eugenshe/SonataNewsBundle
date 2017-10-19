@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/news-bundle",
+    "name": "eugenshe/news-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonataNewsBundle",
     "keywords": ["blog", "sonata", "news", "post"],
