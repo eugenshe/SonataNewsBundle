@@ -1,9 +1,15 @@
 {
-    "name": "sonata-project/news-bundle",
+    "name": "eugenshe/news-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonataNewsBundle",
     "keywords": ["blog", "sonata", "news", "post"],
     "homepage": "https://sonata-project.org/bundles/news",
+    "version": "dev-master",
+            "source": {
+                "url": "git@github.com:eugenshe/SonataNewsBundle.git",
+                "type": "git",
+                "reference": "master"
+            },
     "license": "MIT",
     "authors": [
         {
@@ -67,7 +73,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "4.x-dev"
+            "dev-master": "3.x-dev"
         }
     }
 }
