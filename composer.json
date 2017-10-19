@@ -4,6 +4,12 @@
     "description": "Symfony SonataNewsBundle",
     "keywords": ["blog", "sonata", "news", "post"],
     "homepage": "https://sonata-project.org/bundles/news",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/eugenshe/SonataNewsBundle.git"
+        }
+    ],
     "version": "dev-master",
             "source": {
                 "url": "git@github.com:eugenshe/SonataNewsBundle.git",
