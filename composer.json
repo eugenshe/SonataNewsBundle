@@ -36,7 +36,7 @@
         "symfony/templating": "^2.8 || ^3.2",
         "sonata-project/user-bundle": "4.x-dev",
         "sonata-project/media-bundle": "3.x-dev",
-        "sonata-project/classification-bundle": "3.x-dev"
+        "sonata-project/classification-bundle": "3.x-dev",
         "sonata-project/admin-bundle": "^3.4",
         "sonata-project/formatter-bundle": "^3.0",
         "sonata-project/easy-extends-bundle": "^2.2",
