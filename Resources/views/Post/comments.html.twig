@@ -21,7 +21,7 @@
                     <a href="{{ comment.url }}" target="new" rel="nofollow">{{ comment.name }}</a>
                 </div>
                 <div class="sonata-blog-comment-date">
-                    {{ comment.createdAt | format_date }}
+                    {{ comment.createdAt | date }}
                 </div>
                 <div class="sonata-blog-comment-message">
                     {{ comment.message }}
