@@ -33,7 +33,7 @@
                     <span class="sonata-blog-post-author">{{ 'archive_author'|trans({'%author%': post.author }, 'SonataNewsBundle') }}</span> |
 
                     <i class="icon-calendar"></i>
-                    {{ post.publicationDateStart | format_date }} |
+                    {{ post.publicationDateStart | date }} |
 
                     <i class="icon-comment"></i>
                     <span class="sonata-blog-post-comments-count">{{ 'comments_count'|trans({'%comments_count%': post.commentsCount }, 'SonataNewsBundle') }}</span>
